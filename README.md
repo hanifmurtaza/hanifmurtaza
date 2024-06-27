@@ -1,6 +1,6 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 哈尼夫HANIF </h2>
 
-<img src="https://media1.tenor.com/m/DIZe27LrJaQAAAAd/nhi%E1%BB%87t-ba-peace.gif "/>
+<img src="https://media1.tenor.com/m/4LJiIRjbi4oAAAAC/keyboard-thumbs.gif "/>
 
 <h1 align="center">Hi 👋, I'm Hanif Murtaza 🇮🇩</h1>
 <h3 align="center">A passionate Computer Science student from Indonesia currently studying in Universiti Putra Malaysia (UPM)</h3>
