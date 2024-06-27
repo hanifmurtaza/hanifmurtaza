@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/DIZe27LrJaQAAAAd/nhi%E1%BB%87t-ba-peace.gif "/>
 
-<h1 align="center">Hi 👋, I'm Hanif Murtaza</h1>
+<h1 align="center">Hi 👋, I'm Hanif Murtaza 🇮🇩</h1>
 <h3 align="center">A passionate Computer Science student from Indonesia currently studying in Universiti Putra Malaysia (UPM)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifmurtaza&label=Profile%20views&color=0e75b6&style=flat" alt="hanifmurtaza" /> </p>
