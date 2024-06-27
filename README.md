@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://my.linkedin.com/in/hanif-murtaza-70013b2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://my.linkedin.com/in/hanif-murtaza-70013b2a5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hanif-murtaza-70013b2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://my.linkedin.com/in/hanif-murtaza-70013b2a5" height="30" width="40" /></a>
 <a href="https://instagram.com/hanifmurtaza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanifmurtaza_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hanifmurtaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hanifmurtaza" height="30" width="40" /></a>
 </p>
