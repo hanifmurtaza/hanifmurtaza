@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust, React & MongoDB**
 
-- 💻 High interest in **Data Science, Machine Learning and AI Implementations**
+- 💻 High interest in **Data Science, Big Data Analytics, Machine Learning and AI Implementations**
 
 - 📫 How to reach me **hanifmurtazaa@gmail.com**
 
