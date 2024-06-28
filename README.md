@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Rust, React & MongoDB**
 
+- 💻 High interest in **Data Science, Machine Learning and AI Implementations**
+
 - 📫 How to reach me **hanifmurtazaa@gmail.com**
 
 - 🇨🇳 China area contact: **Wechat: jauhariii**
