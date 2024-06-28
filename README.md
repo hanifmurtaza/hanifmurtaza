@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hanifmurtazaa@gmail.com**
 
-- ⚡ China area contact: **Wechat: jauhariii**
+- 🇨🇳 China area contact: **Wechat: jauhariii**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
