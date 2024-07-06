@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifmurtaza&label=Profile%20views&color=0e75b6&style=flat" alt="hanifmurtaza" /> </p>
 
-- 🌱 I’m currently learning **Rust, React & MongoDB**
+- 🌱 I’m currently learning **Cangjie, Rust, React & MongoDB**
 
 - 💻 High interest in **Data Science, Big Data Analytics, Machine Learning and AI Implementations**
 
